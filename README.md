@@ -1,3 +1,11 @@
+# Fitness Tracker
+
+This is a project to create a fitness tracking app. I am still outlining the initial features for this app.
+
+More to come soon!
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
